@@ -1,7 +1,7 @@
 # From Text to Pixel: Advancing Long-Context Understanding in MLLMs
 
 <p align="center">
-   🔥 <a href="?" target="_blank">Project Page</a> 📃 <a href="?" target="_blank">Paper</a><br>
+   📃 <a href="https://arxiv.org/abs/2405.14213" target="_blank">Paper</a><br>
 </p>
 
 We introduce SEEKER, a multimodal large language model designed to tackle this issue. SEEKER aims to optimize the compact encoding of long text by compressing the text sequence into the visual pixel space via images, enabling the model to handle long text within a fixed token-length budget efficiently.</a>.
